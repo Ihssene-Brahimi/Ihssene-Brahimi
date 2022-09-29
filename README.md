@@ -1,5 +1,5 @@
 ##     Hi there 👋, I'm Ihssene & you can call me Sirius
-### Currently devoted to Data science and Quantum computing
+###      Devoted to Data science and Quantum computing
 
 
 - 🔭 I’m currently working on NLP & Quantum ML projects
