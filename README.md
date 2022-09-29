@@ -8,5 +8,4 @@
 - 🤔 I’m looking for help with Quantum ML  
 - 📝 I share what I learn on https://medium.com/@geminae.stellae
 - 📫 How to reach me: ji_brahimi@esi.dz
-- ⚡ Fun fact: ...
 
