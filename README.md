@@ -2,7 +2,7 @@
 ###      Devoted to Data science and Quantum computing
 
 
-- 🔭 I’m currently working on NLP for Healthcare 
+- 🔭 I’m currently working on AI projects for Healthcare 
 - 🌱 I’m learning Quantum Computing
 - 👯 I’m looking to collaborate on AI research projects 
 - 🤔 I’m looking for help with Quantum Computing  
