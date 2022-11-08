@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on AI projects for Healthcare 
-- 🌱 I’m learning Quantum Computing
+- 🌱 I’m learning Quantum Computing with Qiskit community
 - 👯 I’m looking to collaborate on AI research projects 
 - 🤔 I’m looking for help with Quantum Computing  
 - 📝 I share what I learn on https://medium.com/@geminae.stellae
