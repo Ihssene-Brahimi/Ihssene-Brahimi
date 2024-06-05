@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on AI projects for Healthcare 
-- 🌱 I’m learning UDL and Robotics
+- 🌱 I’m interested in Semi Supervised Learning
 - 📝 I share what I learn on https://medium.com/@geminae.stellae
-- 📫 How to reach me: ji_brahimi@esi.dz
+- 📫 How to reach me: ji_brahimi@esi.dz / ihssene.brahimi@usherbrooke.ca
 
