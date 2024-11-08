@@ -1,4 +1,4 @@
-##     Hi there 👋, I'm Ihssene, feel free to call me Sirius
+##     Hi there 👋, I'm Ihssene, feel free to call me Sirius ﴿وأنّهُ هو ربُّ الشعرى‎‏﴾ 
 ###      Devoted to AI Research
 
 
