@@ -3,7 +3,7 @@
 
 
 - 🔭 Currently working on Medical Imaging Segmentation (MIS)
-- 🌱 Interested in Medical Imaging/WSL/SSL 
+- 🌱 Interested in Medical Imaging and Earth Observation
 - 📝 I share what I learn on https://medium.com/@geminae.stellae
 - 📫 How to reach me: ji underscore brahimi at esi dot dz
 
