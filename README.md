@@ -1,4 +1,4 @@
-##     Hi there 👋, I'm Ihssene, feel free to call me Sirius (وأنّهُ هو ربُّ الشعرى)
+##     Assalamu Alaykum 👋, I'm Ihssene, feel free to call me Sirius
 ###    AI for Medical Imaging
 
 
