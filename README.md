@@ -2,7 +2,7 @@
 ###      Devoted to AI Research
 
 
-- 🔭 Currently working on Medical Imaging Segmentation (MIS)
+- 🔭 Currently working on Ultrasound Imaging and Low-Field MRI
 - 🌱 Interested in Medical Imaging and Earth Observation
 - 📝 I share what I learn on https://medium.com/@geminae.stellae
 - 📫 How to reach me: ji underscore brahimi at esi dot dz
